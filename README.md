@@ -9,7 +9,8 @@ livekit \
 livekit-agents \
 livekit-plugins-deepgram \
 livekit-plugins-openai \
-livekit-plugins-silero
+livekit-plugins-silero \
+livekit-plugins-cartesia
 ```
 
 You will also need api keys for deepgram, openai, livekit and silero. Once you have them you can export them like so:
