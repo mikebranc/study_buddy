@@ -1,6 +1,8 @@
 # Study Buddy
 This code is an adaptation of Shayne Parmelee's [elden agent](https://github.com/ShayneP/elden-agent)
 
+🔗[Demo](https://youtu.be/1C56GHytjfM?si=QAP5p7bShC7QiJTx)
+
 ## To run the code
 You will need to install the following libaries, make sure you use the latest versions:
 ```
